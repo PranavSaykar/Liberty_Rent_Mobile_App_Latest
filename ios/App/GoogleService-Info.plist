@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>682246064819-dfs1qm91u6in41a29qv782m0sbn52vr3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.682246064819-dfs1qm91u6in41a29qv782m0sbn52vr3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCVlo_iAHeCUcdvjf9UOSfSA8FOhPqZp28</string>
+	<key>GCM_SENDER_ID</key>
+	<string>682246064819</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.liberty.libertyrent</string>
+	<key>PROJECT_ID</key>
+	<string>push-notifications-4c393</string>
+	<key>STORAGE_BUCKET</key>
+	<string>push-notifications-4c393.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:682246064819:ios:47fdf2c3fb3f9faf1f7ec6</string>
+</dict>
+</plist>
